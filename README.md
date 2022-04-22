@@ -11,3 +11,5 @@ I'm a senior Web and Mobile developer.
 
 
 [![Exaland Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:exaland@gmail.com)
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=e129df73d3e6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
